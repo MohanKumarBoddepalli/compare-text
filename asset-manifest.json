@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/compare-text/static/css/main.073c9b0a.css",
+    "main.js": "/compare-text/static/js/main.d7a81412.js",
+    "index.html": "/compare-text/index.html",
+    "main.073c9b0a.css.map": "/compare-text/static/css/main.073c9b0a.css.map",
+    "main.d7a81412.js.map": "/compare-text/static/js/main.d7a81412.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d7a81412.js"
+  ]
+}
